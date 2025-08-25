@@ -49,6 +49,12 @@ Quer aprender a criar jogos incríveis como um verdadeiro programador? Este é o
 - **Input:** Console.ReadKey() para captura de teclas
 - **Output:** Console.WriteLine() para desenhar o jogo
 
+### 🎓 Perfect for Young Programmers!
+
+Esse game foi especialmente criado para ensinar meu filho (de 11 anos) a programar de uma forma divertida. Sem textos chatos, só código e aventura!
+
+**Pronto para se tornar um super-herói da programação? Então vamos codar! 💻✨**
+
 ---
 
 ## 🇺🇸 English
@@ -102,6 +108,6 @@ Want to learn how to create awesome games like a real programmer? This is the pe
 
 ### 🎓 Perfect for Young Programmers!
 
-This game was specially designed to teach programming concepts to kids (11+ years old) in a fun and engaging way. No boring textbooks - just pure coding adventure!
+This game was specially designed to teach programming concepts to my kid (11 years old) in a fun and engaging way. No boring textbooks - just pure coding adventure!
 
 **Ready to become a programming superhero? Let's code! 💻✨**
