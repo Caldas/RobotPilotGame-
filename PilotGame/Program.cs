@@ -7,13 +7,10 @@
 Game game = new Game();
 game.PrintGameStartScreen();
 
-// TODO: Wait for user input any key and them clear the screen so we could draw the game start
-// Expected Output:
 Console.ReadKey(); // Wait for user input
 Console.Clear(); // Clear the console screen
 
-//TODO: Start Game Logic Here
-game.StartGame();
+game.StartGame(); // Start Game Logic Here
 
 /// <summary>
 /// Entry point for the PilotGame application.
